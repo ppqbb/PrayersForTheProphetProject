@@ -1,0 +1,8 @@
+C:\Root\output\Content\PrayersForTheProphet\PrayersForTheProphet\bin\Debug\PrayersForTheProphet.exe.config
+C:\Root\output\Content\PrayersForTheProphet\PrayersForTheProphet\bin\Debug\PrayersForTheProphet.exe
+C:\Root\output\Content\PrayersForTheProphet\PrayersForTheProphet\bin\Debug\PrayersForTheProphet.pdb
+C:\Root\output\Content\PrayersForTheProphet\PrayersForTheProphet\obj\Debug\PrayersForTheProphet.csproj.AssemblyReference.cache
+C:\Root\output\Content\PrayersForTheProphet\PrayersForTheProphet\obj\Debug\PrayersForTheProphet.csproj.SuggestedBindingRedirects.cache
+C:\Root\output\Content\PrayersForTheProphet\PrayersForTheProphet\obj\Debug\PrayersForTheProphet.csproj.CoreCompileInputs.cache
+C:\Root\output\Content\PrayersForTheProphet\PrayersForTheProphet\obj\Debug\PrayersForTheProphet.exe
+C:\Root\output\Content\PrayersForTheProphet\PrayersForTheProphet\obj\Debug\PrayersForTheProphet.pdb
